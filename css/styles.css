@@ -1,0 +1,31 @@
+img{
+  height: 150px;
+  width: 300px;
+}
+/* # is id*/
+#content{
+  border: 5px solid red;
+}
+
+/* . is for class */
+.purple-text{
+  color:purple;
+}
+
+.header img{
+  float: left;
+  height: 100px;
+  width: 100px;
+}
+
+.header{
+  background-color: dodgerblue;
+  height: 115px;
+}
+
+.content img{
+  width: 200px;
+  height: 250px;
+  display: block;
+  margin:0 auto;
+}
