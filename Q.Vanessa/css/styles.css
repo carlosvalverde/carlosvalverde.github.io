@@ -1,0 +1,36 @@
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+footer {
+padding: 25px;
+}
+
+#quote {
+  font-style: italic;
+  letter-spacing: 2px;
+  padding: 10px;
+}
+
+.social-icon {
+  width: 20px;
+  height: 20px;
+  margin: 2.5px;
+  display: inline-block;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: baseline;
+}
+
+li {
+  font-size: 25px;
+}
+
+a:link, a:visited, a:hover, a:active {
+  color: gray;
+  text-decoration: none;
+
+}
